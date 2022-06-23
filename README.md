@@ -6,8 +6,8 @@ I'm Joseph Grabski, a student in the UK currently working at Transloadit as a Co
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=f06529&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-edb626?style=for-the-badge&logo=css3&logoColor=edb626&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828">
  <img src="https://img.shields.io/badge/-Csharp-9b4993?style=for-the-badge&logo=csharp&logoColor=9b4993&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-ffe873?style=for-the-badge&logo=python&logoColor=ffe873&labelColor=282828">
