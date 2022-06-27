@@ -11,7 +11,7 @@ I'm Joseph Grabski, a student in the UK currently working at Transloadit as a Co
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828">
  <img src="https://img.shields.io/badge/-Csharp-9b4993?style=for-the-badge&logo=csharp&logoColor=9b4993&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-ffe873?style=for-the-badge&logo=python&logoColor=ffe873&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&logo=java&logoColor=5382a1&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=ff3e00&labelColor=282828">
   <img src="https://img.shields.io/badge/-Flutter-2196f3?style=for-the-badge&logo=flutter&logoColor=2196f3&labelColor=282828">
 </div>
 </p>
