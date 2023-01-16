@@ -19,10 +19,7 @@ I'm Joseph Grabski, a student in the UK currently working at Transloadit as a Co
 ## My Statistics
 
 <br/>
-<p align="left">
-   <img width="49.5%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Missing-Tech&show_icons=true&theme=gruvbox&hide_border=true" />
-   <img width="49.5%" src="https://github-readme-stats-ten-gilt.vercel.app/?user=Missing-Tech&theme=gruvbox&hide_border=true" />
+<p>
+   <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Missing-Tech&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
 <br>
-
-![Missing-Tech's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Missing-Tech&custom_title=Joseph's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
