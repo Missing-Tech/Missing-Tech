@@ -20,8 +20,8 @@ I'm Joseph Grabski, a student in the UK currently working at Transloadit as a Co
 
 <br/>
 <p align="left">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Missing-Tech&show_icons=true&theme=gruvbox&hide_border=true" />
-   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Missing-Tech&theme=gruvbox&hide_border=true" />
+   <img width="49.5%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Missing-Tech&show_icons=true&theme=gruvbox&hide_border=true" />
+   <img width="49.5%" src="https://github-readme-stats-ten-gilt.vercel.app/?user=Missing-Tech&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
