@@ -1,5 +1,5 @@
 <div align="center">
-I'm Joseph Grabski, a student in the UK currently working at Transloadit as a Content Lead.
+I'm Joseph Grabski, a 2nd year KCL Compuer Science Student in the UK currently working at Transloadit as a Content Lead.
 </div>
 
 <br>
