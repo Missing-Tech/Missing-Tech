@@ -16,10 +16,3 @@ I'm Joseph Grabski, a 3rd year KCL Computer Science Student in the UK currently 
 </div>
 </p>
 
-## My Statistics
-
-<br/>
-<p>
-   <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Missing-Tech&show_icons=true&theme=gruvbox&hide_border=true" />
-</p>
-<br>
